@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://my.newtonschool.co/user/poonamsengar1326](https://my.newtonschool.co/user/poonamsengar1326)
 
-- 💬 Ask me about **react,javascript,html,css,bootstrap,tailwind,node js**
+- 💬 Ask me about **react, javascript,html,css, bootstrap,tailwind, node js**
 
 - 📫 How to reach me **poonamsengar1326@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
