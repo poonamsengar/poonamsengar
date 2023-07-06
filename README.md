@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Movix App](https://64a45197836d5f0088793798--chic-kitten-f59837.netlify.app/)
 
-- 🌱 I’m currently doing Internship **Newton School**
+- 🌱 I’m currently doing Internship **Full Stack Web Devlopment📖**
 
 - 👨‍💻 All of my projects are available at [https://my.newtonschool.co/user/poonamsengar1326](https://my.newtonschool.co/user/poonamsengar1326)
 
