@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, javascript,html,css, bootstrap,tailwind, node js**
 
-- 📫 How to reach me **poonamsengar1326@gmail.com, sengarpoonam2699@gmail.com**
+- 📫 How to reach me **poonamsengar1326@gmail.com**
 
 - ⚡ Fun fact **I am Funny😄**
 
