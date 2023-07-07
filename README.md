@@ -1,5 +1,5 @@
 ![logo](https://github.com/poonamsengar/poonamsengar/blob/main/Full%20Stack%20Web-Development.gif)
-<h1 align="center">Hi 👋, I'm POONAM SENGAR</h1>
+<h1 align="center">Hi 👋, I'm Poonam Sengar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p>Hello, my name is POONAM SENGAR, I belong to Gwalior and I have a full-stack Web developer. With [1] years of Internship experience in web development, I have SIX Certificates in JAVA, PYTHON, C, C++, and WEB DEVELOPMENT I have over both front-end and back-end technologies, Learn Full Stack Web Development, and I speak English and Hindi.</p>
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" />
